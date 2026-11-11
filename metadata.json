@@ -1,0 +1,6 @@
+{
+  "name": "설비 (The Apparatus) - 2D Action",
+  "description": "2D side-scrolling pixel action game of repetition and silent moral weight without score or evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
